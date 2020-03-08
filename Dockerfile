@@ -1,4 +1,4 @@
-FROM daocloud.io/xin_cqu/matlab_runtime
+FROM xin0214/matlab_runtime
 
 MAINTAINER Xin Wen <nclxwen@gmail.com>
 
