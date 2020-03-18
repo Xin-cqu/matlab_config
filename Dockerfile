@@ -1,4 +1,4 @@
-FROM xin0214/matlab_runtime
+FROM xin0214/matlab_runtime:latest
 MAINTAINER Xin Wen <nclxwen@gmail.com>
 
 WORKDIR /mcr-install
